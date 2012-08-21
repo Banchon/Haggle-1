@@ -1,0 +1,20 @@
+Haggle
+======
+
+General description: 
+This project is an implementation package for studying different aspects of human mobility in a mobile social setting such as a conference, a campus, or an outdoor event where people carry their cellphones. It contains implementations of several routing algorithms for Delay Tolerant Networks (DTN). Using Contact Graph definition (i.e. nodes represent people and edges represent contact events), Social-Sim allows researchers to study and understand how people contact/meet each others in different social settings.
+
+Code Input: 
+It takes as input any human mobility traces collected by Bluetooth sensors such as MIT or Cambridge datasets.
+
+Code Output: 
+It outputs the performance of different routing algorithms for spreading information (Successful Delivery Ratio and Delay metrics). It also computes different statistical properties of human contact graphs.
+
+Project Goal: 
+You attend a concert or a conference and you like to share the photos on your smartphones with other people who are there.
+
+How to use:
+To use this package, you need to install mysql c++, boost c++, and gnu scientific libraries on your machine.
+
+Contact:
+k.jahanbakhsh@gmail.com
